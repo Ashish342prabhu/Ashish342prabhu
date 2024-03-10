@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ashish342prabhu
+- 👋 Hi, I’m Krishna Prabhu Narayana
 - 👀 I’m interested in hacking
 - 🌱 I’m currently learning CS B.tech
 - 💞️ I’m looking to collaborate on ...
